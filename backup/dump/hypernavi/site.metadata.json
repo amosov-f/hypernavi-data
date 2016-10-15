@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"hypernavi.site"},{"v":1,"key":{"place.location":"2dsphere"},"name":"place.location_2dsphere","ns":"hypernavi.site","2dsphereIndexVersion":3}]}
